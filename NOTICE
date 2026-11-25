@@ -1,4 +1,4 @@
-PxStation Linux (© 2026 Zenity.it) è un fork del porting per Linux di macos-spice-client.
+PxStation Linux (© 2026 Luca Maroglio) è un fork del porting per Linux di macos-spice-client.
 Ne riprende l'interfaccia e la logica Proxmox (API, verifica TLS, politica di riconnessione):
 https://github.com/pawelwiecaszek/macos-spice-client
 

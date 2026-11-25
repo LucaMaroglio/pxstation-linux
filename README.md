@@ -4,7 +4,7 @@
 
 > **PxStation Linux è un fork del porting per Linux di
 > [macos-spice-client](https://github.com/pawelwiecaszek/macos-spice-client)** di Paweł Więcaszek
-> (licenza MIT), rinominato e mantenuto da Zenity.it. Fa parte della famiglia PxStation insieme a
+> (licenza MIT), rinominato e mantenuto da Luca Maroglio. Fa parte della famiglia PxStation insieme a
 > [PxStation Mac](https://github.com/LucaMaroglio/pxstation-mac) e
 > [PxStation Windows](https://github.com/LucaMaroglio/pxstation-win).
 
@@ -191,4 +191,4 @@ che il catalogo italiano contenga tutti i testi.
 ## Licenza
 
 MIT. Interfaccia, logica Proxmox e icona originale derivano da macos-spice-client © Paweł Więcaszek
-(MIT): vedi `NOTICE`. Modifiche di PxStation Linux © 2026 Zenity.it.
+(MIT): vedi `NOTICE`. Modifiche di PxStation Linux © 2026 Luca Maroglio.
