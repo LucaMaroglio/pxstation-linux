@@ -182,7 +182,7 @@ che il catalogo italiano contenga tutti i testi.
 
 ## Novità di PxStation Linux 0.3.1
 
-- Nuovo nome (PxStation Linux), icona e logo; box Informazioni con nome, versione e «2026 - Zenity.it».
+- Nuovo nome (PxStation Linux), icona e logo; box Informazioni con nome, versione e «2026 - Luca Maroglio».
 - Interfaccia in inglese e italiano con scelta della lingua nelle preferenze.
 - Le impostazioni della versione precedente (`~/.config/linux-spice-client`) vengono copiate al primo
   avvio; i token restano nel portachiavi. La vecchia installazione (`~/.local/share/linux-spice-client`)
