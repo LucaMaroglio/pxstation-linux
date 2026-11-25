@@ -1,0 +1,35 @@
+[Desktop Entry]
+Type=Application
+Name=PxStation Linux
+GenericName=SPICE client for Proxmox
+GenericName[it]=Client SPICE per Proxmox
+Comment=Manage and open Proxmox VE virtual machines with remote-viewer
+Comment[it]=Gestisci e apri le macchine virtuali Proxmox VE con remote-viewer
+Exec=@EXEC@ %F
+Icon=pxstation-linux
+Terminal=false
+Categories=Network;RemoteAccess;
+Keywords=proxmox;spice;vm;virtual;macchina;virtuale;remote-viewer;
+MimeType=application/x-virt-viewer;
+StartupNotify=true
+StartupWMClass=pxstation-linux
+SingleMainWindow=true
+Actions=vm-list;open-file;preferences;
+
+[Desktop Action vm-list]
+Name=Virtual Machines
+Name[it]=Macchine virtuali
+Icon=computer
+Exec=@EXEC@ --action=vm-list
+
+[Desktop Action open-file]
+Name=Open Connection File…
+Name[it]=Apri file di connessione…
+Icon=document-open
+Exec=@EXEC@ --action=open-file
+
+[Desktop Action preferences]
+Name=Preferences
+Name[it]=Preferenze
+Icon=preferences-system
+Exec=@EXEC@ --action=preferences
